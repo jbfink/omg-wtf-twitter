@@ -8,8 +8,6 @@
 *.synctex.gz
 *.fdb_latexmk
 *.fls
-paper1-epub/
-paper1-epub3/
 *.4ct
 *.4tc
 *.epub
